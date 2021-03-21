@@ -11,7 +11,5 @@
 
 `PATH => ~/.config/i3/`
 
-### Parent
-> https://github.com/zyedidia/micro
 
 ![Иллюстрация к проекту](https://github.com/Apanazar/stuprum/blob/master/i3wm.jpg)
